@@ -1,0 +1,25 @@
+{
+  "name": "nft-staking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "hardaht": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "ethereum-waffle": "^4.0.7",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.11.2",
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rauhan Ali",
+  "license": "ISC"
+}
